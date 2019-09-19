@@ -1,0 +1,12 @@
+Landuse group,Landuse class,Key,Yield filename
+Urban,Residential - low density,ResidentialLow,Residential_Low
+Urban,Residential - medium density,ResidentialMed,Residential_Med
+Urban,Residential - high density,ResidentialHigh,Residential_High
+Urban,Commercial - suburban,CommercialSub,Commercial_Suburban
+Urban,Commercial - CBD,CommercialCBD,Commercial_CBD
+Urban,Industrial,Industrial,Industrial
+Urban,Highways,Highways,Highways
+Rural,Pasture,Pasture,Pasture
+Rural,Exotic forest,ExoticForest,Exotic_Forest
+Rural,Native forest,NativeForest,Native_Forest
+Rural,Horticulture,Horticulture,Horticulture

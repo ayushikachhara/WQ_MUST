@@ -1,0 +1,12 @@
+Key,Area.frac,MSC,LI,Conv,GI,Treatment.frac
+ResidentialLow,0.3,0,0,0,0,0
+ResidentialMed,0.4,1,0,1,0,1
+ResidentialHigh,0.1,0,1,0,1,0.5
+CommercialSub,0.1,1,1,1,0,0.5
+CommercialCBD,0,0,0,0,0,0
+Industrial,0,0,0,0,0,0
+Highways,0,0,0,0,0,0
+Pasture,0.1,0,0,0,0,0
+ExoticForest,0,0,0,0,0,0
+NativeForest,0,0,0,0,0,0
+Horticulture,0,0,0,0,0,0
